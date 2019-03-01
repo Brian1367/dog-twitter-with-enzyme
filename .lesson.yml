@@ -1,0 +1,8 @@
+---
+title: "Dog Twitter with Enzyme"
+type: "challenge"
+behaviors:
+  - react_on_node
+  - react_testing
+description: "Practice testing React components with Enzyme"
+tags: "react"
